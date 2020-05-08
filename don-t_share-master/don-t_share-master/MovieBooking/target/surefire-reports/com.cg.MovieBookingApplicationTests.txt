@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.cg.MovieBookingApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 1.075 s <<< FAILURE! - in com.cg.MovieBookingApplicationTests
+initializationError(com.cg.MovieBookingApplicationTests)  Time elapsed: 0.016 s  <<< ERROR!
+java.lang.IllegalStateException: Unable to find a @SpringBootConfiguration, you need to use @ContextConfiguration or @SpringBootTest(classes=...) with your test
+
